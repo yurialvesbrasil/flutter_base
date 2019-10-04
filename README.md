@@ -1,6 +1,6 @@
 # flutter_base
 
-A new Flutter project.
+Projeto Flutter base para iniciar novo projeto.
 
 ## Getting Started
 
